@@ -1,3 +1,6 @@
+# v1.15
+# 250615
+#
 # need to 'pip install pyserial matplotlib numpy' to install required libraries
 import serial
 import time
